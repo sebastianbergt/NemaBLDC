@@ -6,9 +6,9 @@ Provide a Nema34 compatible case for C6374 170KV BLDC Motor with CUI AMT V102 en
 
 # Pictures 
 
+![](images/assembly_without_backside_housing.png)
 ![](images/front_left.png)
 ![](images/backside_left.png)
-![](images/assembly_without_backside_housing.png)
 
 # Print
 
