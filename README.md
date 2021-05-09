@@ -3,7 +3,6 @@
 # Goal
 
 Provide a Nema34 compatible case for C6374 170KV BLDC Motor with CUI AMT V102 encoder to be used as a powerful servo with [odrive](https://odriverobotics.com/).
-Design files in freecad (version used was 0.19 with Assembly 4 addon)
 
 # Pictures 
 
@@ -16,6 +15,7 @@ Design files in freecad (version used was 0.19 with Assembly 4 addon)
 All parts were printed on [Prusa MK3S](https://www.prusa3d.com/) out of PETG with 0.15mm layer height PrusaSlicer-2.2.0 default-QUALITY setting, 0.4mm nozzle and 2 perimeters without supports.
 Back and front have 15% gyroid infill.
 The encoder shaft has 100% rectolinear infill.
+CAD were designed in freecad version 0.19 with Assembly 4 addon.
 
 # Build
 
