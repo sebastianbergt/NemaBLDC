@@ -31,10 +31,12 @@ The encoder shaft has 100% rectolinear infill.
 
 # BOM
 
-PETG for the print
-2x M3 nut (for the encoder)
-2x M3 5mm screw
-4x M4 nut ()
-10x M4 10mm screw (for motor/encoder mounting and keeping the front on the box.)
-1x [AMT102-V](https://octopart.com/amt102-v-cui+devices-106233269)
-1x [AMT102-V cable](https://octopart.com/search?q=CUI-3132-1FT&currency=USD&specs=0)
+|Count |Part  | Comment
+--- | --- | ---
+|2|M3 nut|for the encoder mount
+|2|M3 5mm screw|for the encoder mount
+|4|M4 nut|
+|10|M4 10mm screw|for motor and encoder shaft mounting and keeping the front on the box
+|1|[AMT102-V](https://octopart.com/amt102-v-cui+devices-106233269)|
+|1|[AMT102-V cable](https://octopart.com/search?q=CUI-3132-1FT&currency=USD&specs=0)|
+|some|PETG filament|
